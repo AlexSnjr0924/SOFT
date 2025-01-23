@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shapes>
+  <shape id="1" angles="3" dscr="Orthogonal triangle, simple"> 
+    <point num="1" x="0.0" y="0.0"/>
+    <point num="2" x="0.0" y="3"/>
+    <point num="3" x="4" y="0.0"/>
+  </shape>
+  <shape id="2" angles="3" dscr="Orthogonal triangle, corner in 0"> 
+    <point num="1" x="0.0" y="0.0"/>
+    <point num="2" x="0.0" y="4.4"/>
+    <point num="3" x="7.55" y="0.0"/>
+  </shape>
+  <shape id="3" angles="3" dscr="Orthogonal triangle, corner moved"> 
+    <point num="1" x="2.0" y="2.0"/>
+    <point num="2" x="2.0" y="71.0"/>
+    <point num="3" x="20.00" y="2.0"/>
+  </shape>
+  <shape id="4" angles="3" dscr="Turned orthogonal triangle">
+    <point num="1" x="-2.0" y="-2.0"/>
+    <point num="2" x="0.0" y="4.0"/>
+    <point num="3" x="3.0" y="3.0"/>
+  </shape>
+  <shape id="5" angles="3" dscr="Turned orthogonal triangle II">
+    <point num="1" x="-2.0" y="-2.0"/>
+    <point num="2" x="0.0" y="4.0"/>
+    <point num="3" x="2.0" y="6.0"/>
+  </shape>
+  <shape id="6" angles="3" dscr="Turned orthogonal triangle III">
+    <point num="1" x="-2.0" y="-2.0"/>
+    <point num="2" x="0.0" y="4.0"/>
+    <point num="3" x="1.0" y="9.0"/>
+  </shape>
+  <shape id="7" angles="3" dscr="Isosceles triangle"> 
+    <point num="1" x="-2.0" y="-1.0"/>
+    <point num="2" x="6.0" y="-1.0"/>
+    <point num="3" x="2.0" y="12.0"/>
+  </shape>
+  <shape id="8" angles="3" dscr="Isosceles triangle II"> 
+    <point num="1" x="-1.0" y="-1.0"/>
+    <point num="2" x="5.0" y="-1.0"/>
+    <point num="3" x="2.0" y="12.0"/>
+  </shape>
+  <shape id="9" angles="3" dscr="Isosceles triangle III"> 
+    <point num="1" x="-2.0" y="-1.0"/>
+    <point num="2" x="6.0" y="-1.0"/>
+    <point num="3" x="2.0" y="5.5"/>
+  </shape>
+  <shape id="10" angles="4" dscr="Rectangle">
+    <point num="1" x="-2.0" y="-5.0"/>
+    <point num="2" x="8.0" y="-5.0"/>
+    <point num="3" x="8.0" y="1.0"/>
+    <point num="4" x="-2.0" y="1.0"/>
+  </shape>
+  <shape id="11" angles="4" dscr="Non-convex shape">
+    <point num="1" x="-1.0" y="2.0"/>
+    <point num="2" x="1.0" y="1.0"/>
+    <point num="3" x="3.0" y="2.0"/>
+    <point num="4" x="1.0" y="-2.0"/>
+  </shape>
+  <shape id="12" angles="4" dscr="Non-convex shape II">
+    <point num="1" x="-0.5" y="1.0"/>
+    <point num="2" x="0.5" y="0.5"/>
+    <point num="3" x="1.5" y="1.0"/>
+    <point num="4" x="0.5" y="-1.0"/>
+  </shape>
+  <shape id="13" angles="4" dscr="Equilateral box">
+    <point num="1" x="3.0" y="-3.0"/>
+    <point num="2" x="3.0" y="3.0"/>
+    <point num="3" x="-3.0" y="3.0"/>
+    <point num="4" x="-3.0" y="-3.0"/>
+  </shape>
+</shapes>
