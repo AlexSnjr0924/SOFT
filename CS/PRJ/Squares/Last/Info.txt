@@ -1,0 +1,5 @@
+Output files must be here:
+1. "SquareMetric.dll"
+2. "SquareStart.exe"
+3. "SquareStart.exe.config"
+_
